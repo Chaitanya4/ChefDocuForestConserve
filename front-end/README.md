@@ -9,15 +9,22 @@ For seeing Data used to visualized earthquakes on Map visit: https://earthquake.
 
 ### Installing front-end Project Dependencies
 Run the following commands to install the project dependencies:
+
 npm install
+
 npm i react-router-dom
+
 npm install bootstrap
+
 npm i react-bootstrap
+
 npm i cors
+
 npm install mapbox-gl --save
 
 ### Running the Project front-end:
 Run the following command to start the project:
+
 npm start
 
 ### Note: 

@@ -9,6 +9,7 @@ Run the following commands to install the project dependencies:
 npm install 
 
 ### Providing DocuSign OAuth Token and accountId
+In the app.js, insert the values for constant accountId and OAuthToken after creating developer account on Docusign.
 Create a Docusign Developer Account and paste your account Id in constant accountId.
 
 Obtain your accountId from account-d.docusign.com > Go To Admin > API and Keys. e.g. URL: https://admindemo.docusign.com/apps-and-keys
